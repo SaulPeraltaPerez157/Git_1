@@ -6,3 +6,4 @@ for i in range(0,7):
 	else:
 		print("No hay numeros a imprimir")
 
+print("Sumando dos numeros",1+2)
