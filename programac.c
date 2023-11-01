@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-void main(){
-	printf("Este es un programa en C");
+int main(){
+	printf("Este es un programa en C \n");
 	return 0;
 }
 
